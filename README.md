@@ -2,30 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Javier%20Vinueza&fontSize=48&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Ecuador&descSize=18&descAlignY=55" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%E2%80%A2+Angular+%E2%80%A2+Astro+%E2%80%A2+Flutter;console.log(%22thanks+for+stopping+by!%22)" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Angular;console.log(%22thanks+for+stopping+by!%22)" alt="typing" />
 
 </div>
 
-## 💻 ~/whoami
+## About
 
-```bash
-javier@ecuador:~$ cat about.json
-{
-  "name": "Javier Vinueza",
-  "role": "Full-Stack Developer",
-  "location": "Ecuador 🇪🇨",
-  "currently": "building side projects with TypeScript & Astro",
-  "portfolio": "https://javiervinueza-portfolio.vercel.app"
-}
-```
+Full-Stack Developer from Ecuador. I build web and mobile apps with TypeScript — these days mostly with Next.js, React Native (Expo) and Angular, plus side projects with Astro.
 
-## 🛠️ Tech Stack
+You can see more of my work at [javiervinueza-portfolio.vercel.app](https://javiervinueza-portfolio.vercel.app).
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,astro,nodejs,nestjs,flutter,dart,php,laravel,supabase,tailwind,docker,git,vercel,vscode&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,expo,nextjs,angular,astro,nodejs,nestjs,supabase,tailwind,php,laravel,docker,git,vercel,vscode&perline=9" alt="tech stack" />
 </div>
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Javiervinus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" alt="stats" />
@@ -36,7 +29,7 @@ javier@ecuador:~$ cat about.json
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javiervinus&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%" alt="activity graph" />
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake 🐍
 
 <div align="center">
   <picture>
@@ -45,7 +38,7 @@ javier@ecuador:~$ cat about.json
   </picture>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -53,7 +46,7 @@ javier@ecuador:~$ cat about.json
 | [ngx-shine-border](https://github.com/Javiervinus/ngx-shine-border) | Angular component library for animated borders | Angular |
 | [terminal-translator-ai](https://github.com/Javiervinus/terminal-translator-ai) | AI-powered EN ↔ ES translator for the terminal | JavaScript · AI |
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
